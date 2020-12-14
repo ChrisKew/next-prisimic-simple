@@ -1,0 +1,1 @@
+export { detailsPageStyles } from "./detailsStyles";
