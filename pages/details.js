@@ -14,6 +14,8 @@ const Details = ({ menu }) => {
       <div className="details">
         <h1>Details Page</h1>
         <p>Learning to connect Next.js Project with Prismic Headless CMS.</p>
+        <img src="images/vid_edit_screen.jpg" alt="Video editing" />
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi distinctio libero enim autem repudiandae laboriosam expedita, itaque sapiente assumenda asperiores cum atque illo similique harum!</p>
       </div>
       <style jsx global>
         {detailsPageStyles}
