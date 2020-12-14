@@ -13,6 +13,7 @@ const Details = ({ menu }) => {
       <Header menu={menu} />
       <div className="details">
         <h1>Details Page</h1>
+        <p>Learning to connect Next.js Project with Prismic Headless CMS.</p>
       </div>
       <style jsx global>
         {detailsPageStyles}
