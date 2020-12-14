@@ -1,4 +1,4 @@
-import css from 'styled-jsx/css'
+import css from "styled-jsx/css";
 
 export const globals = css.global`
 * {
@@ -103,4 +103,4 @@ img {
     margin-bottom: 2rem;
   }
 }
-`
+`;

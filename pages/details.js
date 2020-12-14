@@ -7,7 +7,6 @@ import { Client } from "utils/prismicHelpers";
 import { detailsPageStyles } from "styles";
 
 const Details = ({ menu }) => {
-  console.log(menu);
   return (
     <DefaultLayout>
       <Header menu={menu} />
